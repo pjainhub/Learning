@@ -4,7 +4,7 @@ Welcome to my personal knowledge base.
 
 ## Azure
 
-- [Azure-Service-Bus.md]
+- [Azure Service Bus](Azure-Service-Bus.md)
 - pjainhub/Learning/Azure-Service-Bus.md
 - Azure-Service-Bus.md
 
